@@ -43,7 +43,7 @@ Hasil evaluasi:
 
 ## Pembagian Kontribusi
 - [Sabrina Hani F]: [Bagian B]
-- [Anindya Salwa V]: [Bagian A]
+- [Anindya Salwa V]: [Bagian A (Logistic Regression)]
 - [Anggun Dwi S]: [Membuat README, Memasukkan ke GitHub]
 
 ## Struktur Repository
